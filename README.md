@@ -29,7 +29,7 @@ Our core engine performs a `urltest` every 2 minutes. If the GFW jams one protoc
 
 1. **Official Website:** [https://zibvpn.com](https://zibvpn.com)
 2. **Private Community:** [Join our Telegram](https://t.me/+_ipIO2N6lGk2MDA1) for real-time bypass nodes and architecture deep dives.
-3. **Technical Insights:** Read our detailed reports on [Medium](https://medium.com/@zibray) and [Substack](https://zibvpn.substack.com/).
+3. **Technical Insights:** Read our detailed reports on [Medium](https://medium.com/@px80006) and [Substack](https://zibvpn.substack.com/).
 
 ## 📊 Technical Features
 - **uTLS Chrome Fingerprinting**: Handshakes are 1:1 identical to real Google Chrome.
@@ -38,6 +38,3 @@ Our core engine performs a `urltest` every 2 minutes. If the GFW jams one protoc
 
 ---
 *Disclaimer: This repository is for educational and technical research purposes only.*
-
-https://medium.com/@px80006
-https://zibvpn.substack.com/
