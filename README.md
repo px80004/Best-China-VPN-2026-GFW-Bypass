@@ -38,3 +38,5 @@ Our core engine performs a `urltest` every 2 minutes. If the GFW jams one protoc
 
 ---
 *Disclaimer: This repository is for educational and technical research purposes only.*
+
+https://medium.com/@px80006
